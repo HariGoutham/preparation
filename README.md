@@ -9,7 +9,7 @@ Welcome to the **Software Development Fundamentals** repository! Here you'll fin
   - [🏗️ Structural Patterns](#structural-patterns)
   - [🤝 Behavioral Patterns](#behavioral-patterns)
 - [🔑 SOLID Principles](#solid-principles)
-- [📊 Data Structures and Algorithms](#data-structures-and-algorithms)
+- [📊 Algorithms and Data Structures](#algorithms-and-data-structures)
 - [🔍 Problem Patterns](#problem-patterns)
 - [💻 LeetCode 75](#leetcode-75)
 
@@ -21,27 +21,38 @@ Design patterns are typical solutions to common problems in software design. The
 
 ### 🛠️ Creational Patterns
 Creational patterns deal with object creation mechanisms. Common creational patterns include:
-- **Singleton**
-- **Factory Method**
-- **Abstract Factory**
 - **Builder**
+- **Simple Factory**
+- **Factory Method**
 - **Prototype**
+- **Abstract Factory**
+- **Singleton**
+- **Object Pool**
 
 ### 🏗️ Structural Patterns
 Structural patterns focus on how classes and objects are composed to form larger structures. Common structural patterns include:
 - **Adapter**
+- **Bridge**
+- **Decorator**
 - **Composite**
-- **Proxy**
-- **Flyweight**
 - **Facade**
+- **Flyweight**
+- **Proxy**
 
 ### 🤝 Behavioral Patterns
 Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects. Common behavioral patterns include:
-- **Observer**
-- **Strategy**
+- **Chain of Responsibility**
 - **Command**
+- **Interpreter**
+- **Mediator**
 - **Iterator**
+- **Memento**
+- **Observer**
 - **State**
+- **Strategy**
+- **Template**
+- **Visitor**
+- **Null Object**
 
 ---
 
@@ -56,18 +67,21 @@ The SOLID principles are a set of design principles intended to make software de
 
 ---
 
-## 📊 Data Structures and Algorithms
+## 📊 Algorithms and Data Structures
 
-This section covers fundamental data structures and algorithms necessary for efficient problem-solving. Key topics include:
+This section covers fundamental algorithms and data structures necessary for efficient problem-solving. Key topics include:
 - **Arrays**
+- **Hash Tables**
 - **Linked Lists**
 - **Stacks**
 - **Queues**
-- **Trees** (Binary Trees, BST, AVL Trees)
+- **Trees**
 - **Graphs**
-- **Hash Tables**
-- **Sorting Algorithms** (Quick Sort, Merge Sort, etc.)
-- **Searching Algorithms** (Binary Search, Linear Search, etc.)
+- **Recursion**
+- **Sorting**
+- **Searching**
+- **BFS and DFS**
+- **Dynamic Programming**
 
 ---
 
@@ -77,10 +91,7 @@ Problem patterns are common approaches to solving coding challenges. Understandi
 - **Sliding Window**
 - **Two Pointers**
 - **Fast and Slow Pointers**
-- **Depth-First Search (DFS)**
-- **Breadth-First Search (BFS)**
 - **Backtracking**
-- **Dynamic Programming**
 
 ---
 
