@@ -131,8 +131,8 @@ Problem patterns are common approaches to solving coding challenges. Understandi
 ## 💻 LeetCode 75
 
 LeetCode 75 is a curated list of 75 essential coding problems that cover a wide range of topics and are commonly asked in technical interviews. This list helps in practicing and mastering key concepts. 
-You can find the list [here](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
-You can find all premium questions for free [here](https://leetcode.ca/all/problems.html).
+- You can find the list [problems leetcode website](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions).
+- You can find all premium questions for free [premium problems for free](https://leetcode.ca/all/problems.html).
 
 ---
 
